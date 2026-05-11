@@ -1,0 +1,458 @@
+Date,EventType,Event,Rank,Player,Deck,Wins,Losses,Win Rate
+2023-06-17,offline,Paupergeddon Pisa,1,Francini Roberto,Grixis Affinity,13,2,0.8666666666666667
+2023-06-17,offline,Paupergeddon Pisa,2,Loss Tommaso,Altar Tron,11,2,0.8461538461538461
+2023-06-17,offline,Paupergeddon Pisa,3,Navarra Emanuele,Boros Synth,11,3,0.7857142857142857
+2023-06-17,offline,Paupergeddon Pisa,4,Dinarina Mislav,Grixis Affinity,10,2,0.8333333333333334
+2023-06-17,offline,Paupergeddon Pisa,5,Spaggiari Filippo,Grixis Affinity,10,2,0.8333333333333334
+2023-06-17,offline,Paupergeddon Pisa,6,Mengucci Andrea,Boros Synth,10,3,0.7692307692307693
+2023-06-17,offline,Paupergeddon Pisa,7,Beatrice Andrea,Mono Blue Faeries,9,2,0.8181818181818182
+2023-06-17,offline,Paupergeddon Pisa,8,Casotto Marco,Boros Synth,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,9,Carocci Pietro,Cawgate,8,2,0.8
+2023-06-17,offline,Paupergeddon Pisa,10,Borghi Giovanni maria,Azorius Familiars,8,2,0.8
+2023-06-17,offline,Paupergeddon Pisa,11,Manco Pietrangelo,Gruul Ponza,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,12,Zanatta Paolo,Dimir Terror,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,13,Priami Leonardo,Grixis Affinity,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,14,Fantini Alessandro,Cawgate,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,15,Favetta Giovanni,Walls Combo,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,16,Fiorenza Dario,Izzet Faeries,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,17,Candela Marco,Boros Synth,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,18,Barbolini Lorenzo,Unknown Deck,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,19,Ciancia Federico,Boros Synth,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,20,Grasso Nicolo,Azorius Familiars,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,21,Vassallo Marco,Boros Synth,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,22,Kuszynski Jan,Kuldotha Red,9,3,0.75
+2023-06-17,offline,Paupergeddon Pisa,23,Buriak Ivan,Golgari Midrange,7,2,0.7777777777777778
+2023-06-17,offline,Paupergeddon Pisa,24,Iasi Stefano,Azorius Familiars,7,2,0.7777777777777778
+2023-06-17,offline,Paupergeddon Pisa,25,Mangiavillano Benedetto,Mono Blue Faeries,8,2,0.8
+2023-06-17,offline,Paupergeddon Pisa,26,Di Lorenzo alessio,Mono Blue Faeries,8,2,0.8
+2023-06-17,offline,Paupergeddon Pisa,27,Cibak Andrea,Golgari Midrange,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,28,Melotti Emanuele,Goblin Combo,7,3,0.7
+2023-06-17,offline,Paupergeddon Pisa,29,Mattei Andrea,Boros Ephemerate,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,30,Bonato Riccardo,Altar Tron,7,3,0.7
+2023-06-17,offline,Paupergeddon Pisa,31,Togores Rodrigo,Azorius Familiars,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,32,Mulato Daniel,Altar Tron,8,3,0.7272727272727273
+2023-06-17,offline,Paupergeddon Pisa,33,Zanini Emanuele,Pingers Burn,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,34,Cecconi Alessandro,Golgari Midrange,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,35,Versari Matteo,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,36,Bashaj Kevin,Kuldotha Red,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,37,Baldi Remo,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,38,Nardulli Mirko,Unknown Deck,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,39,Di Gioia ivano,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,40,Bertozzi Alessandro,Dimir Terror,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,41,Reali Gianmarco,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,42,Ravenni Niccolo,Bogles,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,43,Ucciero Gennaro,Gruul Ponza,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,44,De Santis marco,Boros Synth,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,45,Santo Alessandro,Slivers,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,46,Bertozzo Francesco,Mono Red Blitz,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,47,Ceridono Riccardo,Kuldotha Red,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,48,Tarricone Francesco,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,49,Di Candia morgan,Kuldotha Red,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,50,Benetazzo Carlo,Gruul Ponza,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,51,Moravec Jiri,Mono Blue Faeries,8,4,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,52,Lezzi Matteo angelo,Elves,7,3,0.7
+2023-06-17,offline,Paupergeddon Pisa,53,Vinci Vincenzo,Grixis Affinity,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,54,Tittarelli Matteo,Boros Synth,6,4,0.6
+2023-06-17,offline,Paupergeddon Pisa,55,Sanino Simone,Walls Combo,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,56,Bruschi Marco,Mono Blue Faeries,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,57,Bergamo Francesco,Mono Blue Faeries,7,4,0.6363636363636364
+2023-06-17,offline,Paupergeddon Pisa,58,Artioli Alberto,Cawgate,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,59,Mattera Vincenzo pio,Dimir Terror,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,60,Chianella Jacopo,Dimir Terror,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,61,Giorgio Daniele,Pingers Burn,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,62,Ciuti Ennio,Gruul Ponza,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,63,Cini Luca,Walls Combo,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,64,Sirianni Simone,Bogles,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,65,Costa Gabriele,Walls Combo,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,66,Zanchetta Silvia,Mono Red Blitz,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,67,Leone Alessandro,Grixis Affinity,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,68,Tomei Massimiliano,Gruul Ponza,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,69,Di Cola enrico,Elves,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,70,Pais Enrico,Mono Blue Faeries,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,71,Zanotti Igor,Grixis Affinity,6,5,0.5454545454545454
+2023-06-17,offline,Paupergeddon Pisa,72,Privitera Alessandro,Kuldotha Red,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,73,Cacialli Leonardo,Azorius Familiars,7,5,0.5833333333333334
+2023-06-17,offline,Paupergeddon Pisa,74,Boventi Matteo,Cawgate,5,4,0.5555555555555556
+2023-06-17,offline,Paupergeddon Pisa,75,Esposito Andrea,Mono Blue Faeries,4,4,0.5
+2023-06-17,offline,Paupergeddon Pisa,76,Palma Matteo,Jeskai Ephemerate,6,4,0.6
+2023-06-17,offline,Paupergeddon Pisa,77,Mingardo Ettore,Walls Combo,6,5,0.5454545454545454
+2023-06-17,offline,Paupergeddon Pisa,78,Rosso Giovanni,Cawgate,6,5,0.5454545454545454
+2023-06-17,offline,Paupergeddon Pisa,79,Delinavelli Davide,Mono Blue Faeries,5,4,0.5555555555555556
+2023-06-17,offline,Paupergeddon Pisa,80,Ferri Paolo,Jund Cascade,6,6,0.5
+2023-06-17,offline,Paupergeddon Pisa,81,Ruggiero Andrea,Grixis Affinity,5,6,0.45454545454545453
+2023-06-17,offline,Paupergeddon Pisa,82,Migliaccio Daniele,Boros Synth,6,5,0.5454545454545454
+2023-06-17,offline,Paupergeddon Pisa,83,Vaglio Federico,Mono Blue Terror,5,6,0.45454545454545453
+2023-06-17,offline,Paupergeddon Pisa,84,Caputo Francesco,Pingers Burn,6,6,0.5
+2023-06-17,offline,Paupergeddon Pisa,85,Casini Tommaso,Golgari Midrange,6,6,0.5
+2023-06-17,offline,Paupergeddon Pisa,86,Hatwieger Dennis,Bogles,6,6,0.5
+2023-06-17,offline,Paupergeddon Pisa,87,Bellettini Lorenzo,Izzet Faeries,5,4,0.5555555555555556
+2023-06-17,offline,Paupergeddon Pisa,88,Bellettini Riccardo,Goblin Combo,5,5,0.5
+2023-06-17,offline,Paupergeddon Pisa,89,Di Gangi matteo,Mono Blue Faeries,5,4,0.5555555555555556
+2023-06-17,offline,Paupergeddon Pisa,90,Lazzini Simone,Golgari Midrange,5,5,0.5
+2023-06-17,offline,Paupergeddon Pisa,91,Marroni Elia,Dimir Terror,5,3,0.625
+2023-06-17,offline,Paupergeddon Pisa,92,Gattai Manuel,Pingers Burn,4,4,0.5
+2023-06-17,offline,Paupergeddon Pisa,93,Lacedra Marco,Boros Synth,5,2,0.7142857142857143
+2023-06-17,offline,Paupergeddon Pisa,94,Esposito Alfonso gregorio,Mono Blue Faeries,5,3,0.625
+2023-06-17,offline,Paupergeddon Pisa,95,Pelliccia Federico,Cawgate,5,2,0.7142857142857143
+2023-06-17,offline,Paupergeddon Pisa,96,Neri Sidney,Boros Synth,4,1,0.8
+2023-06-17,offline,Paupergeddon Pisa,97,Festa Simone,Golgari Midrange,4,1,0.8
+2023-06-17,offline,Paupergeddon Pisa,98,Ripamonti Marco,Mono Blue Faeries,4,1,0.8
+2023-06-17,offline,Paupergeddon Pisa,99,Cristofani Michele,Altar Tron,4,1,0.8
+2023-06-17,offline,Paupergeddon Pisa,100,Coliva Nahuel,Kuldotha Red,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,101,Trivella Marco,Azorius Familiars,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,102,Costanzi Matteo,Golgari Midrange,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,103,Marini Federico,Azorius Familiars,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,104,Ciavatta Mirco,Boros Ephemerate,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,105,Chiavazzo Salvatore,Jeskai Ephemerate,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,106,Alloni Michele,Pingers Burn,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,107,Zaninetti Walter,Naya Gates,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,108,Mazzanti Alessandro,Golgari Midrange,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,109,Brognoli Roberto,Flicker Tron,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,110,Lavore Matteo,Altar Tron,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,111,Puliti Elia,Dimir Faeries,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,112,Stefanini Killian,Pingers Burn,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,113,Melani Niccolo,Unknown Deck,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,114,Dall Ara davide,Unknown Deck,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,115,Aspe Simeon,Mono Blue Faeries,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,116,Betori Alessandro,Walls Combo,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,117,Bevilacqua Gianluca,Grixis Affinity,4,2,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,118,Cardona Domenico,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,119,Delli Compagni fabio,Jeskai Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,120,Gelli Lorenzo,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,121,Paini Francesco,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,122,Bonazza Mirko,Pingers Burn,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,123,Borella Nicolas,Elves,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,124,Mingione Nicola,Grixis Affinity,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,125,Martegani Leonardo,Unknown Deck,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,126,Pietropaolo Tommaso,Boros Synth,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,127,Provaroni Gian luca,Altar Tron,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,128,Casciola Elio,Pingers Burn,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,129,Brugnami Francesco,Dimir Terror,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,130,Reale Simo,Izzet Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,131,Pasalic Luka,Cawgate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,132,Gemignani Luca,Dimir Terror,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,133,Gobbo Matteo,Boros Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,134,Riva Tommaso,Dimir Terror,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,135,Scognamiglio Pasquale,Boros Synth,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,136,Stifanelli Mattia,Gruul Ponza,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,137,Cenami Francesco,Pingers Burn,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,138,Cupini Lorenzo,Pingers Burn,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,139,Sampaolesi Dario,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,140,Gentile Daniele,Gruul Ponza,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,141,D Ammora pietro maria,Orzhov Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,142,Venditti Giorgio,Infect Gates,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,143,Comitangelo Fabio,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,144,Duchj Matteo,Boros Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,145,Lancellotti Luca,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,146,Guerriero Marco,Infect Gates,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,147,Barberi Simone,Gruul Ponza,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,148,Santo Nicola,Boros Synth,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,149,Feltrin Andrea,Golgari Midrange,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,150,De Zio gabriele,Golgari Midrange,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,151,Biagi Jacopo,Goblin Combo,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,152,Barbagelata Diego,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,153,Sorrentino Luciano,Mono Red Prowess,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,154,Romano Lorenzo,White Weenie,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,155,Tedesco Stefano,Mono Red Blitz,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,156,Vandelli Giacomo,Golgari Midrange,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,157,Benoci Francesco,Pingers Burn,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,158,Giuliani Giacomo,Jeskai Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,159,Alessandro Tomei,Unknown Deck,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,160,Landi Juri,Golgari Midrange,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,161,Moretti Massimiliano,Mono Green Ponza,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,162,Derosa Marco,Walls Combo,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,163,Bertacco Andrea,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,164,Ganghereti Eugenio,Golgari Midrange,3,1,0.75
+2023-06-17,offline,Paupergeddon Pisa,165,Stefanello Giacomo,Walls Combo,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,166,Rosa Loris,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,167,Gasperi Michele,Cawgate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,168,Di Chio federico,Turbo Initiative,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,169,Dalmasso Giorgio,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,170,Di Guida imma,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,171,Tescari Marco,Mono Blue Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,172,Bin Mattia,Boros Synth,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,173,Bacciarelli Samuele,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,174,Miceli Mattia,Gruul Ponza,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,175,Rullo Matteo,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,176,Panaro Francesco,Bogles,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,177,De Simone antonio,Orzhov Ephemerate,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,178,Casale Michael,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,179,Poletti Damiano,Naya Gates,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,180,Buonocore Marco,Pingers Burn,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,181,Quondam Vincenzo luca,Walls Cascade,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,182,Ricciardi Alberto b,Walls Combo,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,183,Rossi Marco,Kuldotha Red,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,184,Perks Carl,Azorius Familiars,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,185,Ansaldo Paolo,Grixis Affinity,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,186,Zuiani Matteo,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,187,Del Carlo duccio,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,188,Vella Nicolo,Mono Blue Faeries,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,189,Ruiz Diaz leandro,Dimir Terror,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,190,Beretta Matteo,Walls Combo,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,191,Baldelli Jonathan,Grixis Affinity,4,3,0.5714285714285714
+2023-06-17,offline,Paupergeddon Pisa,192,Tomao Matteo,Boros Synth,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,193,Mazzucco Edoardo,Cawgate,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,194,Cordella Edoardo,Tortured Existence,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,195,Reali Olmo,Walls Combo,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,196,Acquaroli Matteo,Boros Synth,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,197,Morgese Elia,Azorius Familiars,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,198,Gosani Arif,Mono Blue Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,199,Cirigliano Matteo,Boros Ephemerate,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,200,Franceschini Andrea,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,201,Pinelli Federico,Azorius Familiars,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,202,Caboni Gian carlo,Altar Tron,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,203,Varisco Roberto,Azorius Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,204,Fontana Lorenzo,Golgari Midrange,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,205,Casanova Mattia,Boros Synth,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,206,Ghiara Stefano,Golgari Midrange,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,207,Marinacci Matteo,Dimir Terror,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,208,Piana Alessio,Mono Blue Faeries,3,2,0.6
+2023-06-17,offline,Paupergeddon Pisa,209,Firmani Tiziano,Boros Synth,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,210,Fava Andrea,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,211,Giordano Samuele,Slivers,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,212,Caracciolo Davide,Altar Tron,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,213,Di Marzio ugo,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,214,Dama Davide,Azorius Familiars,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,215,De Francesco nicola,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,216,Baiocco Valerio,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,217,Cacelli Flavio,White Weenie,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,218,Simone Monaldi simone,Grixis Affinity,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,219,Laviola Edoardo,Pingers Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,220,Rosano Antonio,Walls Combo,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,221,Di Grazia lorenzo,Boros Synth,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,222,Monopoli Cyro,Boros Synth,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,223,Buttiero Davide,Golgari Midrange,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,224,Romiti Fulvio,Pingers Burn,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,225,De Vivo roberto,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,226,Crosa Alessandro,Altar Tron,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,227,Da Lio francesco,Mono Blue Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,228,Vergani Riccardo,Unknown Deck,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,229,Postorino Giovanni,Boros Synth,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,230,Amicone Placido,Unknown Deck,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,231,Fait Stefano,Mono Blue Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,232,Dall Oglio nico,Slivers,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,233,Conte Simone,Mono Blue Faeries,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,234,Ambrosio Alessandro,Orzhov Ephemerate,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,235,Guerriero Lorenzo,Infect Gates,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,236,Debiasi Samuel,Pingers Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,237,Borgatti Edoardo,Pingers Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,238,Peri Proto riccardo maria,Dimir Terror,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,239,Di Dio riccardo,Cawgate,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,240,Decarlo Andrea,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,241,Rossi Fabio,Pingers Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,242,Griseta Donato,Azorius Familiars,2,1,0.6666666666666666
+2023-06-17,offline,Paupergeddon Pisa,243,Frausin Emma,Cawgate,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,244,Tambone Giuliano,Jeskai Ephemerate,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,245,Speziga Dario,Izzet Ponza,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,246,Bartolocci Francesco,Esper Ephemerate,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,247,Mazzola Matteo,Altar Tron,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,248,Borghetti Gabriele,Walls Combo,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,249,Franco Andrea,Kuldotha Red,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,250,Alvisi Samuele,Mono Blue Terror,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,251,Fidati Paride,Mono Blue Faeries,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,252,Giammo Matteo,Boros Synth,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,253,Pecis Davide,Slivers,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,254,D Anteo giorgio,Golgari Midrange,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,255,Simonetta Andrea,Mono Blue Faeries,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,256,Aiello Patrizio,Whale Combo,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,257,Mancini Alessandro,Unknown Deck,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,258,Vivaldi Lorenzo,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,259,Santamaria Andrea,Mono Red Blitz,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,260,Cremaschi Gianluca,Boros Synth,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,261,Ferrari Andrea,Pingers Burn,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,262,Ortelli Simone,White Weenie,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,263,Caldarulo Gianluca,Dimir Terror,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,264,Gianelli Fabrizio,Boros Ephemerate,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,265,Audizi Alessio,Golgari Midrange,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,266,Giuliani Pietro,Boros Synth,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,267,Massaccesi Davide,Azorius Familiars,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,268,Fabbri Federico,Grixis Affinity,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,269,Fasano Riccardo,Walls Combo,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,270,Petoshati Orland,Grixis Affinity,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,271,Nicola Sampogna,White Weenie,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,272,Mazzantini Francesco,Altar Tron,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,273,Mannella Stefano,Grixis Affinity,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,274,Belotti Andrea,Mono Blue Faeries,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,275,Lukas Ondrej,Naya Gates,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,276,Pelagagge Federico,Pingers Burn,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,277,Grosso Emanuele,Kuldotha Red,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,278,Ledda Simone,Flicker Tron,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,279,Navarra Giovanni,Kuldotha Red,3,3,0.5
+2023-06-17,offline,Paupergeddon Pisa,280,Casalini Alberto,Orzhov Ephemerate,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,281,Simon Paolo,Rakdos Madness,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,282,Casorerio Simone,Slivers,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,283,Calzolari Andrea,Mono Blue Faeries,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,284,Calanna Daniele,Pingers Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,285,Rizzardi Thomas,Dimir Terror,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,286,Caddeo Gianluca,Dimir Terror,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,287,Martini Stefano,Kuldotha Red,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,288,Lamberti Domenico,Altar Tron,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,289,Bassetto Matteo,Grixis Affinity,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,290,Cellai Stefano,Rakdos Burn,3,4,0.42857142857142855
+2023-06-17,offline,Paupergeddon Pisa,291,Monje Russell,Mono Blue Faeries,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,292,Tanzini Michele,Mono Blue Terror,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,293,Marulli Thomas,Azorius Familiars,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,294,Schiano Di cola vincenzo,Golgari Delve,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,295,Muser Marco,Azorius Familiars,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,296,Artu Valentino,Mono Blue Faeries,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,297,Zanzottera Luca,Golgari Midrange,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,298,Papucci Michele,Azorius Familiars,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,299,Caiazzo Giuseppe,Dimir Terror,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,300,Iuculano Paolo,Altar Tron,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,301,Testa Umberto,Walls Combo,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,302,Mancinelli Leo,Kuldotha Red,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,303,Sannino Giacinto,Jeskai Ephemerate,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,304,Carrozza Alberto,Boros Synth,2,2,0.5
+2023-06-17,offline,Paupergeddon Pisa,305,Rizzi Mattia,Golgari Midrange,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,306,Gianotti Pietro,Dimir Faeries,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,307,Noviello Federico,Unknown Deck,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,308,Priolo Dario,Boros Synth,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,309,Rinaldi Luca,Mono Blue Faeries,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,310,Laudati Pietro,Golgari Midrange,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,311,Neri Riccardo,Boros Ephemerate,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,312,Ricci Leonardo,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,313,Caverni Tommaso,Gruul Ponza,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,314,Cossu Andrea,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,315,Teneggi Alessandro,Grixis Affinity,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,316,Colazilli Andrea,Kuldotha Red,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,317,Ferrari Simone,Izzet Faeries,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,318,Forti Andrea,Gruul Ponza,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,319,Giardini Andrea,Cawgate,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,320,Siciliano Joseph,Azorius Familiars,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,321,Doveri Marco,Mono Blue Faeries,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,322,Zaccagnini Diego,Kuldotha Red,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,323,Monticelli Tommaso,Grixis Affinity,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,324,Marsili Alberto,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,325,Torricelli Luca,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,326,Toffanin Enrico,Kuldotha Red,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,327,Giglio Gabriele,Golgari Midrange,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,328,Triassi Michele,Bogles,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,329,Masotti Niccolo’,Gruul Ponza,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,330,Varocchi Francesco,Poison Storm,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,331,Mattucci Marcolivier,Dimir Terror,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,332,Vondrejc Jakub,White Weenie,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,333,Di Meglio antonio,Pingers Burn,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,334,Setaro Livio,Kuldotha Red,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,335,Cuppari Francesco,Bogles,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,336,Zino Michele,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,337,Del Bianco david,Tortured Existence,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,338,Politi Matteo,Mono Green Infect,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,339,Perotti Efrem,Goblin Combo,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,340,Bornancin Luca,Boros Synth,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,341,Tummolillo Carlo,White Weenie,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,342,Fasano Tommaso,Walls Combo,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,343,Baraldi Giacomo,Gruul Ponza,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,344,Gasperi Giulia,Boros Synth,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,345,Animobono Andrea,Unknown Deck,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,346,Zemmi Davide,Bogles,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,347,Tribulato Gabriele,Bogles,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,348,Gonnelli Simone,Grixis Affinity,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,349,Montani Marco,Mono Blue Faeries,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,350,Mignone Marco giocondo,Mono White Heroic,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,351,Sorini Federico,Jeskai Ephemerate,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,352,Tomasina Marcello,Mono Red Prowess,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,353,Brunel Noam,Dimir Terror,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,354,Ippoliti Daniele,Boros Synth,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,355,Corbetta Samuele,Mono Blue Faeries,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,356,Rottigni Angelo,Mono Blue Faeries,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,357,Albernaz Viana tiago,Gruul Ponza,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,358,Filippini Filippo,Poison Storm,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,359,Garfagnoli Gabriele,Mono Blue Faeries,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,360,Stefano Cucciniello,Unknown Deck,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,361,Araldo Silvio,Izzet Affinity,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,362,Bejinari Cozmin,Boros Synth,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,363,Bigi Luciano,Dimir Terror,2,4,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,364,Farenzena Alisa,Slivers,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,365,Marraccini Gabriele,White Weenie,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,366,Boldrini Luca,Dimir Terror,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,367,Conati Nicola,Mono Blue Faeries,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,368,Campari Gabriele,Bogles,2,5,0.2857142857142857
+2023-06-17,offline,Paupergeddon Pisa,369,Salvato Giulio,Walls Combo,2,3,0.4
+2023-06-17,offline,Paupergeddon Pisa,370,Bini Simone,Altar Tron,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,371,Tirini Filippo,Boros Ephemerate,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,372,Michenzi Luca,Golgari Midrange,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,373,Bonaventura Ciro,Mono Blue Faeries,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,374,Marchetti Marco,Dimir Terror,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,375,Bonilauri Augusto,Grixis Affinity,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,376,Fontana Claudio,Unknown Deck,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,377,Mileto Francesco maria,Izzet Curve,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,378,Tassetti Roberto maria,Naya Gond,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,379,Monaro Cortez,Walls Combo,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,380,Battilani Francesco,Grixis Affinity,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,381,Carelli Franco,Azorius Familiars,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,382,Bezzini Alex,Dimir Terror,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,383,Leonelli Francesco,Mono Blue Faeries,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,384,Di Caro stefano,Altar Tron,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,385,Alessi Nino,Pingers Burn,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,386,Saletto Giovanni,Bogles,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,387,Sano Beniamino,Cawgate,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,388,Belli Alessandro,Kuldotha Red,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,389,Brunori Lapo,Unknown Deck,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,390,Mirko Tetti,Mono Blue Faeries,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,391,Bombarda Massimo,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,392,Canuti Marcello,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,393,Torre Tiziano,Golgari Midrange,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,394,Becchi Giacomo,Golgari Midrange,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,395,Sciarrone Raffaele,Golgari Midrange,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,396,Ciacci Cristiano,Azorius Familiars,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,397,Las Heras aixandri guillem,Poison Storm,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,398,Lo Presti carlo,Azorius Familiars,1,2,0.3333333333333333
+2023-06-17,offline,Paupergeddon Pisa,399,Croce Gianluca,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,400,Sbrilanci Lorenzo,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,401,Croce Simone,Pingers Burn,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,402,Grimaldi Gabriele,Mono Blue Faeries,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,403,Guizzo Norberto,Unknown Deck,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,404,Piras Silvia,Rakdos Madness,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,405,Alvisi Federico,Mono Black Aristocrats,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,406,Bragioto Pietro,Bogles,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,407,Baratella Daniele,Izzet Ponza,1,6,0.14285714285714285
+2023-06-17,offline,Paupergeddon Pisa,408,Mondi Edoardo,Naya Gates,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,409,Razza Andrea giuseppe,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,410,Acciai Luca,Dimir Terror,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,411,Quintiero Flavio,Jeskai Ephemerate,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,412,Chiatello Giovanni,Dimir Terror,1,6,0.14285714285714285
+2023-06-17,offline,Paupergeddon Pisa,413,Guerriero Antonio,Infect Gates,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,414,Rillo Michele,Affinity Combo,1,6,0.14285714285714285
+2023-06-17,offline,Paupergeddon Pisa,415,Ducceschi Lorenzo,Mono Blue Terror,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,416,Calabrese Andrea,Pingers Burn,1,3,0.25
+2023-06-17,offline,Paupergeddon Pisa,417,Paglino Mattia,Grixis Affinity,1,5,0.16666666666666666
+2023-06-17,offline,Paupergeddon Pisa,418,Ferlucci Alessio,Altar Tron,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,419,Cerracchio Ettore,Mono Blue Faeries,1,4,0.2
+2023-06-17,offline,Paupergeddon Pisa,420,Lancioni Simone,Izzet Faeries,0,1,0
+2023-06-17,offline,Paupergeddon Pisa,421,Cardinali Tommaso,Altar Tron,0,1,0
+2023-06-17,offline,Paupergeddon Pisa,422,Maggi Fabio,Mono Blue Terror,0,1,0
+2023-06-17,offline,Paupergeddon Pisa,423,Morino Alessandro,Goblin Combo,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,424,Beretta 1 matteo 1,Izzet Faeries,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,425,Cordeschi Nicola,Turbo Terror,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,426,Contessa Luca,Cascade Tron,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,427,Pasotti Andrea,Golgari Midrange,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,428,Grappoli Tommaso,Cawgate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,429,Contadini Daniele,Orzhov Ephemerate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,430,Auriemma Donato pio,Altar Tron,0,2,0
+2023-06-17,offline,Paupergeddon Pisa,431,Raso Stoia francesco,Bogles,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,432,Cassese Daniele,Cawgate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,433,Sborgia Lorenzo,Grixis Affinity,0,4,0
+2023-06-17,offline,Paupergeddon Pisa,434,Patrucco Luca,Kuldotha Red,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,435,Salvato Andrea,Mono Black Devotion,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,436,Bini Edoardo,Boros Synth,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,437,Saetta Mattia,Boros Synth,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,438,Poli Andrea,Jeskai Ephemerate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,439,Bersanetti Diego,Dimir Terror,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,440,Ferracuti Matteo ferracuti,Golgari Midrange,0,5,0
+2023-06-17,offline,Paupergeddon Pisa,441,Rizzo Filippo,Pingers Burn,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,442,Elia Francesco,Cawgate,0,4,0
+2023-06-17,offline,Paupergeddon Pisa,443,Araya Oscar,Orzhov Ephemerate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,444,Casalini Andrea,Flicker Tron,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,445,Ipri Riccardo,Jeskai Ephemerate,0,4,0
+2023-06-17,offline,Paupergeddon Pisa,446,Collari Davide,Dimir Terror,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,447,Morandi Luca,Mono Blue Faeries,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,448,Bianchi Davide francesco,Mono Blue Faeries,0,4,0
+2023-06-17,offline,Paupergeddon Pisa,449,Mazzucchelli Alessandro,Golgari Midrange,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,450,Belbusti Matteo,Boros Synth,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,451,Punzi Davide,Walls Combo,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,452,Pretto Emanuele,Golgari Midrange,0,5,0
+2023-06-17,offline,Paupergeddon Pisa,453,Lombardi Piero,Boros Ephemerate,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,454,Difino Luca,Pingers Burn,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,455,Cerretini Giacomo,Izzet Faeries,0,3,0
+2023-06-17,offline,Paupergeddon Pisa,456,Gallo Giuseppe,Pingers Burn,0,4,0
+2023-06-17,offline,Paupergeddon Pisa,457,Gnerucci Paride,Pingers Burn,0,7,0
